@@ -76,5 +76,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or suggestions, feel free to reach out!
 
 Email: kuasha10102@gmail.com
-GitHub: sayantichy
+GitHub: [sayantichy](https://github.com/sayantichy)
 Happy coding! 😊
